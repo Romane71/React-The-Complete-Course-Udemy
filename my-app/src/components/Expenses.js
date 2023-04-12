@@ -1,10 +1,10 @@
 function Expenses() {
   return (
     <div>
-      <div>Date</div>
+      <div>March 28th 2021</div>
       <div>
-        <h2>Title</h2>
-        <div>Amount</div>
+        <h2>Car insurance</h2>
+        <div>$300</div>
       </div>
     </div>
   );
